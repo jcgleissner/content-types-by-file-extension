@@ -10,7 +10,7 @@
 const contentTypesByFileExtension = require('content-types-by-file-extension')
 
 //This yields the ContentType for ".html" files: "text/html"
-const htmlContentType = contentTypesByFileExtension[html]
+const htmlContentType = contentTypesByFileExtension['html']
 ```
 
 ## Installation
@@ -24,7 +24,7 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm
+$ npm i content-types-by-file-extension
 ```
 
 ## License
