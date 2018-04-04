@@ -1,4 +1,4 @@
-## contentTypesByFileExtension
+## content-types-by-file-extension
 
   Yields the corresponding MIME content types for file extensions.
   Goal is a simple and independent implementation for a simple task.
@@ -7,7 +7,7 @@
 
 ```js
 //import the module
-const contentTypesByFileExtension = require('contentTypesByFileExtension')
+const contentTypesByFileExtension = require('content-types-by-file-extension')
 
 //This yields the ContentType for ".html" files: "text/html"
 const htmlContentType = contentTypesByFileExtension[html]
