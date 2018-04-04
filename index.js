@@ -1,5 +1,5 @@
 //MIME-Types
-export const contentTypesByExtension = {
+module.exports = {
   '3gp':  'video/3gpp	',
   '3g2':  'video/3gpp2',
   '7z':   'application/x-7z-compressed',
@@ -101,4 +101,4 @@ export const contentTypesByExtension = {
   'yaml': 'text/yaml',
   'zip':  'application/zip',
   'html': 'text/html'
-};
+}
