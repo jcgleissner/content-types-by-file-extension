@@ -33,7 +33,7 @@ export const contentTypesByExtension = {
   'jar':  'application/java-archive',
   'class':'application/java-vm',
   'java': 'text/x-java-source,java',
-  'js':   'application/javascript	',
+  'js':   'text/javascript	',
   'json': 'application/json	',
   'jpeg': 'image/jpeg',
   'jpg':  'image/jpeg',
@@ -99,5 +99,6 @@ export const contentTypesByExtension = {
   'xml':  'application/xml',
   'xslt': 'application/xslt+xml',
   'yaml': 'text/yaml',
-  'zip':  'application/zip'
+  'zip':  'application/zip',
+  'html': 'text/html'
 };

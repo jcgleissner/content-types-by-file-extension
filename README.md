@@ -1,9 +1,15 @@
-Yields the corresponding MIME content types for file extensions.
+## contentTypesByFileExtension
+
+  Yields the corresponding MIME content types for file extensions.
+  Goal is a simple and independent implementation for a simple task.
+
+## Usage
 
 ```js
 //import the module
 const contentTypesByFileExtension = require('contentTypesByFileExtension')
 
+//This yields the ContentType for ".html" files: "text/html"
 const htmlContentType = contentTypesByFileExtension[html]
 ```
 
@@ -20,8 +26,6 @@ Installation is done using the
 ```bash
 $ npm
 ```
-
-
 
 ## License
 
