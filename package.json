@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "Jean Gleissner <jean.gleissner@gmail.com>",
-  "homepage": "TODO:GITHUBLINK",
+  "homepage": "https://github.com/jcgleissner/contentTypesByFileExtension",
   "keywords": [
     "content-type",
     "mime",
@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "TODO:GITHUBLINK"
+    "url": "https://github.com/jcgleissner/contentTypesByFileExtension.git"
   },
   "bugs": {
-    "url": "TODO:GITHUBLINK/ISSUES",
+    "url": "https://github.com/jcgleissner/contentTypesByFileExtension/issues",
     "email": "jean.gleissner@gmail.com"
   },
   "files": [
