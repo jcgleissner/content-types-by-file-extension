@@ -1,0 +1,28 @@
+{
+  "name": "contentTypesByFileExtension",
+  "description": "Yields the corresponding MIME content types for file extensions.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Jean Gleissner <jean.gleissner@gmail.com>",
+  "homepage": "TODO:GITHUBLINK",
+  "keywords": [
+    "content-type",
+    "mime",
+    "util"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "TODO:GITHUBLINK"
+  },
+  "bugs": {
+    "url": "TODO:GITHUBLINK/ISSUES",
+    "email": "jean.gleissner@gmail.com"
+  },
+  "files": [
+    "package.json",
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md",
+    "index.js"
+  ]
+}
