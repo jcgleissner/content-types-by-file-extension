@@ -1,7 +1,7 @@
 {
   "name": "content-types-by-file-extension",
   "description": "Yields the corresponding MIME content types for file extensions.",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Jean Gleissner <jean.gleissner@gmail.com>",
   "homepage": "https://github.com/jcgleissner/content-types-by-file-extension",
